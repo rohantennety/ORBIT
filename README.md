@@ -1,4 +1,4 @@
-![brlp](assets/readme-brlp.png)
+![brlp](assets/readme-brlp-v2.png)
 
 <p align="center">
   <a href='https://www.sciencedirect.com/science/article/pii/S1361841525002816'>
@@ -27,6 +27,7 @@ https://github.com/user-attachments/assets/28ad3693-5e3e-4f6e-9bbc-485424fbbee2
 
 
 **NEWS**
+* 🎉 BrLP has been awarded the runner-up position for the Media Best Paper Award at MICCAI 2025!
 * 🎉 Our [extension paper](https://arxiv.org/pdf/2502.08560) has been accepted for publication in Medical Image Analysis (*IF=11.8*)
 * 🎉 A [new paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/1340621/A-technical-assessment-of-latent-diffusion-for-Alzheimers-disease-progression/10.1117/12.3047135.short) from Vanderbilt University has replicated our results on the [BLSA](https://www.blsa.nih.gov/) dataset!
 * 🆕 The [short guide on using the BrLP CLI](https://lemuelpuglisi.github.io/blog/2024/brlp/) is out!
