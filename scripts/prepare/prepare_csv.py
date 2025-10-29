@@ -70,8 +70,6 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--dataset_csv',      type=str, required=True)
     parser.add_argument('--output_path',      type=str, required=True)
-    parser.add_argument('--coarse_regions',   type=str, required=True)
-    
     args = parser.parse_args()
 
     # read the dataset
